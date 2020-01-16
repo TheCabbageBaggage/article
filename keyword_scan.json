@@ -1,0 +1,102 @@
+{'_filled': False,
+ 'bib': {'abstract': 'The term smart manufacturing refers to a future-state of '
+                     'manufacturing, where the real-time transmission and '
+                     'analysis of data from across the factory creates '
+                     'manufacturing intelligence, which can be used to have a '
+                     'positive impact across all aspects of operations. In '
+                     'recent …',
+         'author': "P O'Donovan and K Leahy and K Bruton…",
+         'eprint': 'https://www.biomedcentral.com/openurl?doi=10.1186/s40537-015-0034-z',
+         'title': 'An industrial big data pipeline for data-driven analytics '
+                  'maintenance applications in large-scale smart manufacturing '
+                  'facilities',
+         'url': 'https://www.biomedcentral.com/openurl?doi=10.1186/s40537-015-0034-z'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': '… Nonconventional and smart technology is receiving '
+                     'attention in different areas of\n'
+                     'power system planning, operation, and maintenance. '
+                     'Chapter 11 describes the use\n'
+                     'of real time data in the maintenance of offshore wind '
+                     'turbines … \n',
+         'author': 'R Karki and R Billinton and AK Verma',
+         'eprint': 'https://pdfs.semanticscholar.org/aa90/d3b994352670825235568b8d1b4b62d86e65.pdf',
+         'title': 'Reliability Modeling and Analysis of Smart Power Systems',
+         'url': 'https://books.google.com/books?hl=de&lr=&id=jf68BAAAQBAJ&oi=fnd&pg=PR5&dq=smart+maintenance&ots=tQLmHD9Um6&sig=dxGgAYxJTIGp5EoSLAQXiSXYMhM'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'In a context of wide use of transport, it is necessary '
+                     'to increase the efficiency of different transport modes '
+                     'as well as their interaction. To that effect, railway '
+                     'transport will play an important role in the future by '
+                     'increasing its capacity and ensuring a sustainable, '
+                     'efficient …',
+         'author': 'M Menéndez and C Martínez and G Sanz…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S2352146516301673/pdf?md5=2e9bab734e7c7acc65e90f074fdf9501&pid=1-s2.0-S2352146516301673-main.pdf',
+         'title': 'Development of a smart framework based on knowledge to '
+                  'support infrastructure maintenance decisions in railway '
+                  'corridors',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S2352146516301673'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'It has been estimated that around 50% of flight-delays '
+                     'due to engine problems can be traced back to maintenance '
+                     'errors, and the majority of such errors can be '
+                     "categorized simply in terms ofomissions', orincorrect "
+                     "installations'. Companies have been tagging items with "
+                     'radio …',
+         'author': 'ARJ Schwirtz and C Baber',
+         'title': 'Smart tools for smart maintenance',
+         'url': 'https://digital-library.theiet.org/content/conferences/10.1049/ic_20050463'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'Industrial asset lifecycle management is facing pressing '
+                     'demands to rationalize asset usage in parallel with '
+                     'meeting production, quality, safety, environment and '
+                     'cost-efficiency constraints. The introduction of '
+                     'enabling technologies, within an e-Maintenance framework '
+                     '…',
+         'author': 'P Pistofidis and C Emmanouilidis…',
+         'eprint': 'https://ieeexplore.ieee.org/iel5/6198915/6209899/06209969.pdf',
+         'title': 'A layered e-maintenance architecture powered by smart '
+                  'wireless monitoring components',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/6209969/'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'Industrial applications for smart environments call for '
+                     'techniques and methodologies to improve '
+                     'interoperability, reusability, and easy integration with '
+                     'existing applications, thus reducing development costs '
+                     'and time-to-market. This paper presents a novel and '
+                     'practical …',
+         'author': "A D'Elia and L Roffia and G Zamagni and F Vergari…",
+         'eprint': 'https://ieeexplore.ieee.org/iel5/5532341/5546495/05546639.pdf',
+         'title': 'Smart applications for the maintenance of large buildings: '
+                  'How to achieve ontology-based interoperability at the '
+                  'information level',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/5546639/'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'Global competition exhibits a strong pressure on '
+                     'organizations to optimize production processes and '
+                     'increase production flexibility. For example, to improve '
+                     'maintenance, repair and overhaul (MRO) processes of '
+                     'industrial equipment, an Internet-based data exchange …',
+         'author': 'M Maritsch and C Lesjak and A Aldrian',
+         'eprint': 'https://ieeexplore.ieee.org/iel7/7800953/7819121/07819250.pdf',
+         'title': 'Enabling smart maintenance services: Broker-based equipment '
+                  'status data acquisition and backend workflows',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/7819250/'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'Integrating components and systems of the manufacturing '
+                     'process is an important area of research to enable the '
+                     'future development and deployment of the Smart '
+                     'Manufacturing paradigm. An economic model predictive '
+                     'control (EMPC) scheme is proposed that …',
+         'author': 'L Lao and M Ellis and PD Christofides',
+         'eprint': 'https://onlinelibrary.wiley.com/doi/full/10.1002/aic.14427',
+         'title': 'Smart manufacturing: Handling preventive actuator '
+                  'maintenance and economics using model predictive control',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/aic.14427'},
+ 'source': 'scholar'}

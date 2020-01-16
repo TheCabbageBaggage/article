@@ -1,0 +1,83 @@
+{'_filled': False,
+ 'bib': {'abstract': 'The computing architecture of an Automated Maintenance '
+                     'Environment (AME) can foster or stunt the ability to '
+                     'employ smart maintenance practices. With software '
+                     'decision support technologies becoming more readily '
+                     'available, there is ample opportunity for diagnostic …',
+         'author': 'C Kirkos and R Meseroll and G Edwards…',
+         'eprint': 'https://ieeexplore.ieee.org/iel5/4653640/4662554/04662645.pdf',
+         'title': 'Analyzing automated maintenance architectures to provide '
+                  'flexible smart maintenance capabilities',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/4662645/'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'A smart battery that self-monitors and maintains '
+                     'information about itself that includes its state of '
+                     'charge, its need for maintenance, and for conditions '
+                     'that indicate that it has reached the end of its useful '
+                     'life and should be discarded. The information maintained '
+                     'by the battery is …',
+         'author': 'WD Kurle and SB Johnson and RW Nordness…',
+         'eprint': 'https://patentimages.storage.googleapis.com/30/23/41/de8384fa416512/US6198253.pdf',
+         'title': 'Smart battery with maintenance and testing functions, '
+                  'communications, and display',
+         'url': 'https://patents.google.com/patent/US6198253B1/en'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'In order for factories to stay competitive in the '
+                     'current open global market, there should be efforts to '
+                     'put on optimizing the value stream of producing goods. '
+                     'Within this context, Industrial Internet of Things '
+                     '(IIoT) has been emerged as a technology aiming at '
+                     'achieving …',
+         'author': 'M Ashjaei and M Bengtsson',
+         'eprint': 'https://ieeexplore.ieee.org/iel7/8279571/8289834/08290155.pdf',
+         'title': 'Enhancing smart maintenance management using fog computing '
+                  'technology',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/8290155/'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'A computerized “smart card” which has a read/write '
+                     'memory and formatted data storage blocks is used to '
+                     'track the life history of one or more associated machine '
+                     '(s)(eg, vehicles, medical instrumentation and apparatus, '
+                     'business and copying machines, etc.). The smart  …',
+         'author': 'Y Yacoob',
+         'title': 'Method for using a smart card for recording operations, '
+                  'service and maintenance transactions and determining '
+                  'compliance of regulatory and other scheduled events',
+         'url': 'https://patents.google.com/patent/US6170742B1/en'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'An emotive advisory system for use by one or more '
+                     'occupants of an automotive vehicle includes a computer '
+                     'configured to receive input indicative of an operating '
+                     'state of the vehicle. The computer determines at least '
+                     "one of a need to provide owner's manual (or …",
+         'author': 'KA Theisen and PR MacNeille and E Klampfl…',
+         'title': 'Smart vehicle manuals and maintenance tracking system',
+         'url': 'https://patents.google.com/patent/US20110093158A1/en'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'In a highly competitive market, the dynamic maintenance '
+                     'of mobile entities in the field of transportation '
+                     'systems is a major research field, in which '
+                     'maintainability, availability, maintenance charging and '
+                     'optimization are vital. Based on the ISO 13374 standard '
+                     'and …',
+         'author': 'A Fadil and J Clarhaut and G Branger and D Trentesaux',
+         'title': 'Smart condition based maintenance (S-CBM) for a fleet of '
+                  'mobile entities',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-319-51100-9_11'},
+ 'source': 'scholar'}
+{'_filled': False,
+ 'bib': {'abstract': 'This paper suggests more improved smart maintenance '
+                     'system which can support engineering-knowledge to field '
+                     'engineers immediately as well as 3D CAD design '
+                     'information in working process. To build technical '
+                     'knowledge, we use knowledge based …',
+         'author': 'JM Lee and KH Lee and DS Kim and G Lee',
+         'title': 'An enhanced smart maintenance of piping system for the '
+                  'offshore plants',
+         'url': 'https://www.onepetro.org/conference-paper/ISOPE-I-12-619'},
+ 'source': 'scholar'}
